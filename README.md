@@ -1,5 +1,7 @@
 # Documentación del Sistema de Atención Ciudadana Macuspana
 
+## Diagrama de Flujo
+El diagrama de flujo del sistema de atención ciudadana de Macuspana se muestra a continuación:
 ```mermaid
 graph TD
     A[Inicio] --> B[Recepción de Solicitud]
