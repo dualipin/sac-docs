@@ -1,15 +1,10 @@
 # Documentación del Sistema de Atención Ciudadana Macuspana
 
-## Diagrama de Flujo
-El diagrama de flujo del sistema de atención ciudadana de Macuspana se muestra a continuación:
-```mermaid
-graph TD
-    A[Inicio] --> B[Recepción de Solicitud]
-    B --> C[Evaluación de Solicitud]
-    C --> D{Solicitud Completa?}
-    D -->|Sí| E[Asignación de Folio]
-    D -->|No| F[Requerir Información Adicional]
-    F --> B
-    E --> G[Atención de Solicitud]
-    G --> H[Finalización]
-```
+## Tabla de Contenidos
+
+1. [Introducción](#introducción)
+2. [Componentes](/componentes.md)
+
+## Introducción
+
+El Sistema de Atención Ciudadana Macuspana es una aplicación web que permite a los ciudadanos de Macuspana, Tabasco, México, reportar problemas en la vía pública, como baches, luminarias fundidas, basura, entre otros. La aplicación permite a los ciudadanos reportar problemas, visualizar los reportes de otros ciudadanos y dar seguimiento a los reportes que han realizado.
