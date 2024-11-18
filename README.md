@@ -1,10 +1,35 @@
-# Documentación del Sistema de Atención Ciudadana Macuspana
+# Sistema de Atención Ciudadana Macuspana (SAC)
 
-## Tabla de Contenidos
+## Indice General
+
+1. [Prototipado del Sistema](/prototipado.md)
+
+## Indice del Documento
 
 1. [Introducción](#introducción)
-2. [Componentes](/componentes.md)
+2. [Situación Actual](#situación-actual)
+3. [Situación Esperada](#situación-esperada)
+4. [Justificación](#justificación)
+5. [Observaciones](#observaciones)
 
 ## Introducción
 
-El Sistema de Atención Ciudadana Macuspana es una aplicación web que permite a los ciudadanos de Macuspana, Tabasco, México, reportar problemas en la vía pública, como baches, luminarias fundidas, basura, entre otros. La aplicación permite a los ciudadanos reportar problemas, visualizar los reportes de otros ciudadanos y dar seguimiento a los reportes que han realizado.
+### Propósito
+
+### Alcance
+
+### Definiciones, Acrónimos y Abreviaturas
+
+### Responsables e Involucrados
+
+### Referencias
+
+## Descripción General
+
+## Situación Actual
+
+## Situación Esperada
+
+## Justificación
+
+## Observaciones
